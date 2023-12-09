@@ -19,9 +19,9 @@ protection and transmission.
   application&#39;s language (the Tunisian flag for Arabic, the French flag for French, and the English flag for
   English). Then, the &quot;record&quot; button moves to the next interface.
     <div>
-      <img src="./ReadMeImages/arabe.jpg" alt="la conception du job Talend" width="400">
-         <img src="./ReadMeImages/français.jpg" alt="la conception du job Talend" width="400">
-        <img src="./ReadMeImages/anglais.jpg" alt="la conception du job Talend" width="400">
+      <img src="./ReadMeImages/arabe.jpg" alt="la conception du job Talend" width="300">
+         <img src="./ReadMeImages/français.jpg" alt="la conception du job Talend" width="300">
+        <img src="./ReadMeImages/anglais.jpg" alt="la conception du job Talend" width="300">
     </div>
   The second interface enables the user to enter their credentials and click a button to log in.
   <div style="text-align: center;">
