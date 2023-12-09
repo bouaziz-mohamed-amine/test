@@ -18,17 +18,11 @@ protection and transmission.
   The initial interface offers several options: at the top, three flags allow the user to select the
   application&#39;s language (the Tunisian flag for Arabic, the French flag for French, and the English flag for
   English). Then, the &quot;record&quot; button moves to the next interface.
-  <div   >
     <div>
       <img src="./ReadMeImages/arabe.jpg" alt="la conception du job Talend" width="400">
          <img src="./ReadMeImages/français.jpg" alt="la conception du job Talend" width="400">
+        <img src="./ReadMeImages/anglais.jpg" alt="la conception du job Talend" width="400">
     </div>
-    <div>
-      <img src="./ReadMeImages/français.jpg" alt="la conception du job Talend" width="400">
-    </div>
-    <div>
-      <img src="./ReadMeImages/anglais.jpg" alt="la conception du job Talend" width="400">
-    </div></div>
   The second interface enables the user to enter their credentials and click a button to log in.
   <div style="text-align: center;">
     <img src="./ReadMeImages/signIn.jpg" alt="la conception du job Talend" width="400">
