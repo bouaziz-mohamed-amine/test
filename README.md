@@ -48,14 +48,12 @@ protection and transmission.
   For monitoring the heart rate, an interface opens displaying a color that changes according to the
   patient&#39;s condition (green for optimal, yellow for high-normal, red for elevated). The value measured
   by the IoT system is shown in real-time. Then, the status of this value is indicated. 
-  <div style="display: flex; justify-content: space-around; " >
+ 
     <div>
       <img src="./ReadMeImages/freq.jpg" alt="la conception du job Talend" width="300">
+        <img src="./ReadMeImages/ox.jpg" alt="la conception du job Talend" width="300">
     </div>
-    <div>
-      <img src="./ReadMeImages/ox.jpg" alt="la conception du job Talend" width="300">
-    </div>
-  </div>
+   
   Finally, a button
   displays tailored advice based on the patient&#39;s condition.
   <div style="text-align: center;">
