@@ -5,7 +5,7 @@ Welcome to EMBS CHALLENGE
 
 In our solution, the embedded system, which can be portable, provides continuous monitoring of
 health parameters at home. It&#39;s designed for patients under physician supervision. This system
-operates on low power consumption by activating and deactivating our system.
+operates on low power consumption by activating and deactivating our systemm.
 <div>
     <img src="./ReadMeImages/firebase.png" alt="la conception du job Talend" width="500">
   </div>
