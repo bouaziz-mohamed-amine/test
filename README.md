@@ -18,7 +18,7 @@ protection and transmission.
   The initial interface offers several options: at the top, three flags allow the user to select the
   application&#39;s language (the Tunisian flag for Arabic, the French flag for French, and the English flag for
   English). Then, the &quot;record&quot; button moves to the next interface.
-  <div style="display: flex; justify-content: space-between;"  >
+  <div   >
     <div>
       <img src="./ReadMeImages/arabe.jpg" alt="la conception du job Talend" width="400">
     </div>
