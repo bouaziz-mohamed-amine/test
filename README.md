@@ -38,17 +38,13 @@ protection and transmission.
   </div>
   By selecting &quot;Record,&quot; a new interface allows the user to choose the measurements to record by
   clicking one of the two available buttons (heart rate or oxygen level).
-  <div style="display: flex; justify-content: space-between; " >
+  
     <div>
       <img src="./ReadMeImages/arab.jpg" alt="la conception du job Talend" width="300">
+          <img src="./ReadMeImages/fran.jpg" alt="la conception du job Talend" width="300">
+        <img src="./ReadMeImages/ang.jpg" alt="la conception du job Talend" width="300">
     </div>
-    <div>
-      <img src="./ReadMeImages/fran.jpg" alt="la conception du job Talend" width="300">
-    </div>
-    <div>
-      <img src="./ReadMeImages/ang.jpg" alt="la conception du job Talend" width="300">
-    </div>
-  </div>
+
   For monitoring the heart rate, an interface opens displaying a color that changes according to the
   patient&#39;s condition (green for optimal, yellow for high-normal, red for elevated). The value measured
   by the IoT system is shown in real-time. Then, the status of this value is indicated. 
