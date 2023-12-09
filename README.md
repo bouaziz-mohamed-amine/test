@@ -25,28 +25,28 @@ protection and transmission.
     </div>
   The second interface enables the user to enter their credentials and click a button to log in.
   <div style="text-align: center;">
-    <img src="./ReadMeImages/signIn.jpg" alt="la conception du job Talend" width="400">
+    <img src="./ReadMeImages/signIn.jpg" alt="la conception du job Talend" width="300">
   </div>
   Upon clicking &quot;Log In,&quot; a third interface appears, presenting various options. The user can choose to
   monitor specific measures or review the history of previous measurements.
   <div style="text-align: center;">
-    <img src="./ReadMeImages/xx.jpg" alt="la conception du job Talend" width="400">
+    <img src="./ReadMeImages/xx.jpg" alt="la conception du job Talend" width="300">
   </div>
   By selecting &quot;Historic&quot; :
   <div style="text-align: center;">
-    <img src="./ReadMeImages/hist.jpg" alt="la conception du job Talend" width="400">
+    <img src="./ReadMeImages/hist.jpg" alt="la conception du job Talend" width="300">
   </div>
   By selecting &quot;Record,&quot; a new interface allows the user to choose the measurements to record by
   clicking one of the two available buttons (heart rate or oxygen level).
   <div style="display: flex; justify-content: space-between; " >
     <div>
-      <img src="./ReadMeImages/arab.jpg" alt="la conception du job Talend" width="400">
+      <img src="./ReadMeImages/arab.jpg" alt="la conception du job Talend" width="300">
     </div>
     <div>
-      <img src="./ReadMeImages/fran.jpg" alt="la conception du job Talend" width="400">
+      <img src="./ReadMeImages/fran.jpg" alt="la conception du job Talend" width="300">
     </div>
     <div>
-      <img src="./ReadMeImages/ang.jpg" alt="la conception du job Talend" width="400">
+      <img src="./ReadMeImages/ang.jpg" alt="la conception du job Talend" width="300">
     </div>
   </div>
   For monitoring the heart rate, an interface opens displaying a color that changes according to the
@@ -54,16 +54,16 @@ protection and transmission.
   by the IoT system is shown in real-time. Then, the status of this value is indicated. 
   <div style="display: flex; justify-content: space-around; " >
     <div>
-      <img src="./ReadMeImages/freq.jpg" alt="la conception du job Talend" width="400">
+      <img src="./ReadMeImages/freq.jpg" alt="la conception du job Talend" width="300">
     </div>
     <div>
-      <img src="./ReadMeImages/ox.jpg" alt="la conception du job Talend" width="400">
+      <img src="./ReadMeImages/ox.jpg" alt="la conception du job Talend" width="300">
     </div>
   </div>
   Finally, a button
   displays tailored advice based on the patient&#39;s condition.
   <div style="text-align: center;">
-    <img src="./ReadMeImages/adv.jpg" alt="la conception du job Talend" width="400">
+    <img src="./ReadMeImages/adv.jpg" alt="la conception du job Talend" width="300">
   </div>
   
   To ensure our system operates dynamically, the implementation of a dynamic component is
@@ -77,7 +77,7 @@ necessary. This is why we opted for Spring Boot and SQL.
   in email address and password. To access the second interface, the doctor must complete both
   required fields. Otherwise, an alert prompts them to fill in the missing fields.
   <div style="text-align: center;">
-    <img src="./ReadMeImages/1.png" alt="la conception du job Talend" width="500">
+    <img src="./ReadMeImages/1.png" alt="la conception du job Talend" width="300">
   </div>
   
   The second interface features a top navigation bar, including a button to add a new patient, a search
@@ -86,11 +86,11 @@ necessary. This is why we opted for Spring Boot and SQL.
   stable, yellow for unstable, and red for critical), and possible actions (such as modifying or deleting
   patient data).
   <div style="text-align: center;">
-    <img src="./ReadMeImages/2.png" alt="la conception du job Talend" width="500">
+    <img src="./ReadMeImages/2.png" alt="la conception du job Talend" width="300">
   </div>
   by clicking on the modify patient data:
   <div style="text-align: center;">
-    <img src="./ReadMeImages/3.png" alt="la conception du job Talend" width="500">
+    <img src="./ReadMeImages/3.png" alt="la conception du job Talend" width="300">
   </div>
   Clicking the button to add a patient opens a new interface displaying a form to fill out: name,
   surname, gender, date of birth, phone number, national identification number, email address,
@@ -102,7 +102,7 @@ necessary. This is why we opted for Spring Boot and SQL.
   Pressing the button to analyze data displays Power BI-generated graphs, analyzing each patient&#39;s
   data in real-time.
   <div style="text-align: center;">
-    <img src="./ReadMeImages/4.png" alt="la conception du job Talend" width="500">
+    <img src="./ReadMeImages/4.png" alt="la conception du job Talend" width="300">
   </div>
   ## Public Solution :
   Regarding the public device installed in pharmacies and medical offices, the MAX30102 sensor plays
