@@ -38,7 +38,6 @@ protection and transmission.
   </div>
   By selecting &quot;Record,&quot; a new interface allows the user to choose the measurements to record by
   clicking one of the two available buttons (heart rate or oxygen level).
-  
     <div>
       <img src="./ReadMeImages/arab.jpg" alt="la conception du job Talend" width="300">
           <img src="./ReadMeImages/fran.jpg" alt="la conception du job Talend" width="300">
