@@ -21,6 +21,7 @@ protection and transmission.
   <div   >
     <div>
       <img src="./ReadMeImages/arabe.jpg" alt="la conception du job Talend" width="400">
+         <img src="./ReadMeImages/français.jpg" alt="la conception du job Talend" width="400">
     </div>
     <div>
       <img src="./ReadMeImages/français.jpg" alt="la conception du job Talend" width="400">
